@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VkApiTest</string>
+    <integer name="com_vk_sdk_AppId">7962168</integer>
+    <string name="txt_login">Друзья ВКонтакте</string>
+    <string name="btn_login">Войти</string>
+    <string name="friends_search_hint">Find friends</string>
+    <string name="login_error_toast">Ошибка входа</string>
+    <string name="frinds_no_found">У вас нет друзей</string>
+    <string name="friend_has_no_city">Город не указан</string>
+</resources>
